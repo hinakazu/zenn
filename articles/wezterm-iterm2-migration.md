@@ -1,6 +1,6 @@
 ---
 title: 'iTerm2を捨ててWezTermにした - tmux不要のLua設定全公開'
-emoji: ''
+emoji: "💻"
 type: 'tech'
 topics: ['wezterm', 'terminal', 'iterm2', 'lua', 'cli']
 published: false
